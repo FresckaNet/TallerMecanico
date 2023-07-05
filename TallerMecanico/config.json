@@ -1,0 +1,9 @@
+//Connection Config
+{
+  "property": "ChallengeTallerMecanico",
+  "server": "localhost\\SQLEXPRESS",
+  "database": "TallerMecanico",
+  "uid": "sa",
+  "pwd": "F4frF5fsF7ft.",
+  "avaliable": true
+}
